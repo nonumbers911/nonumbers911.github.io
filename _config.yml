@@ -1,0 +1,17 @@
+# Site settings
+title: Maxwell B. Joseph
+email: maxwell.b.joseph@colorado.edu
+description: ""
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mbjoseph.github.io" # the base hostname & protocol for your site
+twitter_username: mxwlj
+github_username:  mbjoseph
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+gems:
+  - jemoji
+
